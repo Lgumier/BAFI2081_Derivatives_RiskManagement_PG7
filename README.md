@@ -19,7 +19,7 @@ The report explores historical volatility, event-based price sensitivity, ESG im
 - Hedging strategies (Δ×S − C and Δ×S + B)
 
 ## ▶️ Open in Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lgumier/BAFI2081_Derivatives_RiskManagement_PG7/blob/main/code/PG7_risk_management.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lgumier/BAFI2081_Derivatives_RiskManagement_PG7/blob/main/code/BAFI2081_PG_7.ipynb)
 
 ## 🤝 License
 MIT
